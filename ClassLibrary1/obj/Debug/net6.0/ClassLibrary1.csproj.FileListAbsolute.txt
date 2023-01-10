@@ -1,0 +1,12 @@
+C:\Wpf\ExcelReadWrite\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+C:\Wpf\ExcelReadWrite\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Wpf\ExcelReadWrite\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Wpf\ExcelReadWrite\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Wpf\ExcelReadWrite\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wpf\ExcelReadWrite\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Wpf\ExcelReadWrite\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+C:\Wpf\ExcelReadWrite\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Wpf\ExcelReadWrite\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+C:\Wpf\ExcelReadWrite\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+C:\Wpf\ExcelReadWrite\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+C:\Wpf\ExcelReadWrite\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll

@@ -1,0 +1,23 @@
+2022-12-05 13:49:08,832 [1] INFO ExcelReadWriteApp.ViewModel - Hello logging world! Browsing a file..
+2022-12-05 13:52:40,247 [1] INFO ExcelReadWriteApp.ViewModel - Hello logging world! Browsing a file..
+2022-12-05 19:08:19,104 [1] INFO ExcelReadWriteApp.ViewModel - Hello logging world! Browsing a file..
+2022-12-05 19:08:24,385 [1] INFO ExcelReadWriteApp.ViewModel - Establishing connection for import..
+2022-12-05 19:08:24,708 [1] INFO ExcelReadWriteApp.ViewModel - Import Successful..
+2022-12-06 12:23:34,535 [1] INFO ExcelReadWriteApp.ViewModel - Hello logging world! Browsing a file..
+2022-12-06 12:24:41,143 [1] INFO ExcelReadWriteApp.ViewModel - Establishing connection for import..
+2022-12-06 12:24:42,443 [1] INFO ExcelReadWriteApp.ViewModel - Import Successful..
+2022-12-07 12:19:11,031 [1] INFO ExcelReadWriteApp.ViewModel - Hello logging world! Browsing a file..
+2022-12-07 12:19:16,997 [1] INFO ExcelReadWriteApp.ViewModel - Establishing connection for import..
+2022-12-07 12:19:18,710 [1] INFO ExcelReadWriteApp.ViewModel - Import Successful..
+2022-12-07 12:31:14,143 [1] INFO ExcelReadWriteApp.ViewModel - Hello logging world! Browsing a file..
+2022-12-07 12:31:20,491 [1] INFO ExcelReadWriteApp.ViewModel - Establishing connection for import..
+2022-12-07 12:31:20,827 [1] INFO ExcelReadWriteApp.ViewModel - Import Successful..
+2022-12-07 12:49:30,623 [1] INFO ExcelReadWriteApp.ViewModel - Hello logging world! Browsing a file..
+2022-12-07 12:49:36,205 [1] INFO ExcelReadWriteApp.ViewModel - Establishing connection for import..
+2022-12-07 12:49:36,474 [1] INFO ExcelReadWriteApp.ViewModel - Import Successful..
+2022-12-07 12:52:38,062 [1] INFO ExcelReadWriteApp.ViewModel - Hello logging world! Browsing a file..
+2022-12-07 12:52:43,895 [1] INFO ExcelReadWriteApp.ViewModel - Establishing connection for import..
+2022-12-07 12:52:44,191 [1] INFO ExcelReadWriteApp.ViewModel - Import Successful..
+2022-12-07 13:05:56,200 [1] INFO ExcelReadWriteApp.ViewModel - Hello logging world! Browsing a file..
+2022-12-07 13:06:05,215 [1] INFO ExcelReadWriteApp.ViewModel - Establishing connection for import..
+2022-12-07 13:06:05,468 [1] INFO ExcelReadWriteApp.ViewModel - Import Successful..

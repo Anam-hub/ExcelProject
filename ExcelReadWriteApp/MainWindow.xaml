@@ -1,0 +1,73 @@
+﻿<Window x:Class="ExcelReadWriteApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExcelReadWriteApp"
+        mc:Ignorable="d"
+        Title="Connect to Excel Sheet"
+        Background="AliceBlue"
+        Height="450"
+        Width="800">
+
+  <Grid>
+    <TextBox HorizontalAlignment="Left"
+             Margin="120,30,0,0"
+             TextWrapping="Wrap"
+             VerticalAlignment="Top"
+             Width="424"
+             Height="40"
+             FontSize="16"
+             Text="{Binding filepath}" />
+    <Button Content="Browse"
+            HorizontalAlignment="Left"
+            Margin="584,30,0,0"
+            VerticalAlignment="Top"
+            Height="40"
+            Width="142"
+            FontSize="18"
+            Background="#FFA3D2EF"
+            Command="{Binding BrowseCmd}" />
+    <Button Content="Import"
+            HorizontalAlignment="Left"
+            Margin="584,104,0,0"
+            VerticalAlignment="Top"
+            Height="37"
+            Width="142"
+            Background="#FFA3D2EF"
+            FontSize="18"
+            Command="{Binding ImportCmd}" />
+    <DataGrid ItemsSource="{Binding dataTable.DefaultView}"
+              Margin="43,89,256,55"
+              Background="#FFB8EEB5" />
+    <Button Content="Add Record"
+            HorizontalAlignment="Left"
+            Margin="584,165,0,0"
+            VerticalAlignment="Top"
+            Height="38"
+            Width="142"
+            FontSize="18"
+            Command="{Binding AddCmd}"
+            Focusable="False"
+            RenderTransformOrigin="0.521,1.314"
+            Background="#FF90D6EA" />
+    <Button Content="Export"
+            HorizontalAlignment="Left"
+            Margin="584,234,0,0"
+            VerticalAlignment="Top"
+            Height="36"
+            Width="142"
+            Command="{Binding ExportCmd}"
+            BorderBrush="#FF6F7676"
+            Background="#FF8BC5DF"
+            FontSize="18"
+            RenderTransformOrigin="0.483,-0.222" />
+    <Label Content="Search"
+           HorizontalAlignment="Left"
+           Margin="43,34,0,0"
+           VerticalAlignment="Top"
+           FontSize="16" />
+    
+
+  </Grid>
+</Window>
